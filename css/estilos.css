@@ -78,6 +78,8 @@ a{
    
 }
 h2{
+    background-color: black;
+    color: darkgoldenrod;
     text-align: center;
     font-size: 250%;
 }
@@ -109,4 +111,9 @@ footer{
 .secciones{
     border: 10px outset #00000079;
     background-color: #e6b71f;
+}
+.seccion{
+    background-image: url(../img/granos\ de\ cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
